@@ -435,6 +435,8 @@ func main() {
 	remoteDomain := "https://libman.com"
 	// Get all the values.
 	for _, urls := range finalPDFList {
+		// Trim any surrounding whitespace from the URL.
+		urls = strings.TrimSpace(urls)
 		// Get the domain from the url.
 		domain := getDomainFromURL(urls)
 		// Check if the domain is empty.
