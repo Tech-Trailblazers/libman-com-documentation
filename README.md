@@ -82,7 +82,7 @@ This repository is just the beginning. Together, we can build a **living library
 
 There are many ways to get started:
 
-1. **Explore the docs** in the `/docs` folder.
+1. **Explore the docs** in the `/PDFs` folder.
 2. **Submit Pull Requests** with new SDS/MSDS files.
 3. **Report Issues** if you see missing or outdated data.
 4. **Engage with the community** – let’s learn and grow together.
